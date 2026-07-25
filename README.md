@@ -10,5 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anand2027Gupta/Leet_code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
