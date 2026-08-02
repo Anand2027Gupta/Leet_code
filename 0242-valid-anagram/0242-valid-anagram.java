@@ -5,13 +5,26 @@ class Solution {
         return false;
     }
 
-    char[] arr1=s.toCharArray();
-    char[] arr2=t.toCharArray();
+    int []freq=new int[26];
 
-    Arrays.sort(arr1);
-    Arrays.sort(arr2);
+    for(int i=0;i<s.length();i++){
+        freq[s.charAt(i)-'a']++;
 
-    return Arrays.equals(arr1,arr2);
+    }
+
+
+    for(int i=0;i<t.length();i++){
+        freq[t.charAt(i)-'a']--;
+
+    }
+
+    for(int i=0;i<26;i++){
+        if(freq[i] != 0){
+            return false;
+        }
+    }
+
+    return true;
 
 
           
