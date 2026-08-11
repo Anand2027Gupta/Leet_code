@@ -19,14 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
