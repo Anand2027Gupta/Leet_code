@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anand2027Gupta/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anand2027Gupta/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
