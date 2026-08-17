@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
+| [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anand2027Gupta/Leet_code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
