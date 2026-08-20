@@ -107,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anand2027Gupta/Leet_code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
