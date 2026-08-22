@@ -16,7 +16,12 @@ class Solution {
 
         int divisible=sum+product;
 
-        return number%divisible==0;
+         if(number%divisible==0)
+         {
+            return true;
+         }
+
+         return false;
 
         
     }
