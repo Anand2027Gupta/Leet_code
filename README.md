@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/Anand2027Gupta/Leet_code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anand2027Gupta/Leet_code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anand2027Gupta/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Anand2027Gupta/Leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anand2027Gupta/Leet_code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anand2027Gupta/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Anand2027Gupta/Leet_code/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Anand2027Gupta/Leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Anand2027Gupta/Leet_code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Anand2027Gupta/Leet_code/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
