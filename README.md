@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Anand2027Gupta/Leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Anand2027Gupta/Leet_code/tree/master/1872-stone-game-viii) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
