@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Anand2027Gupta/Leet_code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Anand2027Gupta/Leet_code/tree/master/1927-sum-game) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
