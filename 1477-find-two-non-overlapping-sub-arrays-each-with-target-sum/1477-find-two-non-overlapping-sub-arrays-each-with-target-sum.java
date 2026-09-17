@@ -6,8 +6,7 @@ class Solution {
 
         int[] best = new int[n];
 
-        // best[i] = index 0 se i tak
-        // target-sum subarray ki minimum length
+        
         Arrays.fill(best, INF);
 
         int left = 0;
