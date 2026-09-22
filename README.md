@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Anand2027Gupta/Leet_code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anand2027Gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand2027Gupta/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Anand2027Gupta/Leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
