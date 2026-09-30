@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anand2027Gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anand2027Gupta/Leet_code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/Anand2027Gupta/Leet_code/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Anand2027Gupta/Leet_code/tree/master/0115-distinct-subsequences) |
+| [0647-palindromic-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/Anand2027Gupta/Leet_code/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
