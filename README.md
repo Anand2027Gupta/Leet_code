@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anand2027Gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anand2027Gupta/Leet_code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/Anand2027Gupta/Leet_code/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/Anand2027Gupta/Leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anand2027Gupta/Leet_code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand2027Gupta/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anand2027Gupta/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
