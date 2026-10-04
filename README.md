@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Anand2027Gupta/Leet_code/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Anand2027Gupta/Leet_code/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Anand2027Gupta/Leet_code/tree/master/0620-not-boring-movies) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Anand2027Gupta/Leet_code/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Anand2027Gupta/Leet_code/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Anand2027Gupta/Leet_code/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/Anand2027Gupta/Leet_code/tree/master/1661-average-time-of-process-per-machine) |
