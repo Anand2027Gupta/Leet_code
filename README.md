@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anand2027Gupta/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anand2027Gupta/Leet_code/tree/master/3483-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
