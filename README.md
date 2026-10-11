@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Anand2027Gupta/Leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Anand2027Gupta/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Anand2027Gupta/Leet_code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Anand2027Gupta/Leet_code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0151-reverse-words-in-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand2027Gupta/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Anand2027Gupta/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Anand2027Gupta/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anand2027Gupta/Leet_code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Anand2027Gupta/Leet_code/tree/master/0290-word-pattern) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anand2027Gupta/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Anand2027Gupta/Leet_code/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anand2027Gupta/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anand2027Gupta/Leet_code/tree/master/0567-permutation-in-string) |
