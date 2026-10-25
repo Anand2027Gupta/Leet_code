@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Anand2027Gupta/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Anand2027Gupta/Leet_code/tree/master/0049-group-anagrams) |
 | [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Anand2027Gupta/Leet_code/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Anand2027Gupta/Leet_code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anand2027Gupta/Leet_code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Anand2027Gupta/Leet_code/tree/master/1563-stone-game-v) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Anand2027Gupta/Leet_code/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anand2027Gupta/Leet_code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Anand2027Gupta/Leet_code/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Anand2027Gupta/Leet_code/tree/master/1254-number-of-closed-islands) |
 ## Geometry
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Anand2027Gupta/Leet_code/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anand2027Gupta/Leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -406,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anand2027Gupta/Leet_code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Anand2027Gupta/Leet_code/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
